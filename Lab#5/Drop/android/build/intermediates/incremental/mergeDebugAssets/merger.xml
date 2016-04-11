@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\LibGDX\Drop\android\assets"><file name="bucket.png" path="D:\LibGDX\Drop\android\assets\bucket.png"/><file name="droplet.png" path="D:\LibGDX\Drop\android\assets\droplet.png"/><file name="undertreeinrain.mp3" path="D:\LibGDX\Drop\android\assets\undertreeinrain.mp3"/><file name="waterdrop.wav" path="D:\LibGDX\Drop\android\assets\waterdrop.wav"/></source></dataSet><dataSet config="debug"><source path="D:\LibGDX\Drop\android\src\debug\assets"/></dataSet></merger>
